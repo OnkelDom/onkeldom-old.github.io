@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Über mich"
+    url: /uebermich/
+  - title: "Blog"
+    url: /blog/
+  - title: "Kategorien"
+    url: /kategorien/
+  - title: "Impressum"
+    url: /impressum/
+  - title: "Datenschutz"
+    url: /datenschutz/
