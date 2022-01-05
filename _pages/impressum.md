@@ -6,16 +6,16 @@ author_profile: false
 ---
 ## Angaben gemäß § 5 TMG:
 Dominik Lenhardt<br>
-Frankfurter Straße 54<br>
-63150 Heusenstamm<br><br>
+Tulpenstraße 5<br>
+64832 Babenhausen<br><br>
 Kontakt:<br>
 E-Mail: <a href="mailto:dominik@lenhardt.cc?Subject=Impressum lenhardt.cc">dominik (AT) lenhardt (PUNKT) cc</a><br>
 Mobil: +49 160 99625867
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Dominik Lenhardt<br>
-Frankfurter Straße 54<br>
-63150 Heusenstamm<br>
+Tulpenstraße 5<br>
+64832 Babenhausen<br>
 
 ## Haftungsausschluss (Disclaimer)
 ### Haftung für Inhalte

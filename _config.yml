@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Dominik Lenhardt"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/onkeldom_avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Linux und Azure Cloud Administrator"
   location         : "Babenhausen, DE"
   email            :
@@ -126,6 +126,70 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+# Experiences
+author_work_experiences_title: Major Skills
+author_work_experiences_details:
+  - logo: linux.png
+    url: https://www.linux.org
+    designation: Linux Systemadministrator
+    description: |
+      Vertraut mit RedHat und Ubuntu. Grundlegende Infrastruktur (DHCP, DNS, NTP), Proxyserver (Squid, Socks, PAC/WPAD), Loadbalancer (Keepalived, HAproxy, Traefik), Monitoring (Consul, Prometheus Stack), Hochverfügbarkeit und Sicherheit.
+    visibility: true
+  - logo: microsoft.png
+    url: https://microsoft.com
+    designation: Azure Cloud Administrator
+    description: Architektur, Konzeptionierung, Betrieb, Automatisierte Deployments mit ARM, BICEP und PowerShell.
+    visibility: true
+  - logo: ansible.png
+    url: https://www.ansible.com
+    designation: Konfigurationsmangement
+    description: Bereitstellen und pflegen von Rollen sowie verwaltung von Servern mittels Konfigurationsmanagement.
+    visibility: true
+
+# Education
+author_education_title: Ausbildungen
+author_education_details:
+  - degree: "Fachinformatiker für Systemintegration"
+    name: "ATLAS Dienstleistungen für Vermögensberatung GmbH"
+    logo: fisi.jpg
+    url: https://www.ausbildung.de/berufe/fachinformatiker-systemintegration
+    description: "08/2014 bis 01/2017"
+    visibility: true
+  - degree: "ITIL Foundation"
+    name: "ATLAS Dienstleistungen für Vermögensberatung GmbH"
+    logo: itil.png
+    url: https://www.itlibrary.org/
+    description: "08/2018"
+    visibility: true
+  - degree: "Microsoft Azure Fundamentals (AZ-900)"
+    name: "ATLAS Dienstleistungen für Vermögensberatung GmbH"
+    logo: ms-az-900.png
+    url: https://www.dvag.de
+    description: "04/2019"
+    visibility: true
+  - degree: "Microsoft Azure Administrator (AZ-104T00)"
+    name: "FastLane"
+    logo: ms-az-104.png
+    url: https://www.fastlane.net
+    description: "11/2021"
+    visibility: true
+  - degree: "Microsoft PowerShell Basics"
+    name: "softwareONE"
+    logo: powershell.png
+    url: https://www.softwareone.com
+    description: "08/2021 - Automating Administration With Windows PowerShell"
+    visibility: true
+
+# Projects
+author_project_title: Projekte
+author_project_details:
+  - title: lenhardt.cc
+    thumbnail: lenhardt.cc.jpg
+    description: Meine persöhnliche Webseite gebaut mit Jekyll und gehostet als github page.
+    url: https://lenhardt.cc
+    visibility: true
+
 
 # Site Footer
 footer:
@@ -228,7 +292,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-admin
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -237,8 +300,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-admin
-
+  
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)

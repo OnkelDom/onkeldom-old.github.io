@@ -55,8 +55,8 @@ author_profile: false
 <p>Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:</p>
 
 <p>Dominik Lenhardt</p>
-<p>Frankfurter Straße 54</p>
-<p>63150 Heusenstamm</p>
+<p>Tulpenstraße 5</p>
+<p>64832 Babenhausen</p>
 <p>Deutschland</p>
 <p>Tel.: +4916099625867</p>
 <p>E-Mail: dominik@lenhardt.cc</p>
