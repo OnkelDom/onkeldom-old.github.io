@@ -150,17 +150,6 @@ footer:
       # url:
 
 
-# Admin Area
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "posts"
-
-
 # Reading Files
 include:
   - .htaccess

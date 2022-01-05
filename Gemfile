@@ -15,8 +15,6 @@ source "https://rubygems.org"
 
 gem "minimal-mistakes-jekyll"
 
-gem 'jekyll-admin', group: :jekyll_plugins
-
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
