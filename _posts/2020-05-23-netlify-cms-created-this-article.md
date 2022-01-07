@@ -1,13 +1,10 @@
 ---
-layout: posts
+layout: single
 author: onkeldom
 title: Netlify CMS created this Article
-date: 2020-05-23T09:52:20.613Z
-thumbnail: /assets/img/posts/hello.jpg
-category: azure
-summary: Demo Content using Netlify CMS
-keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how to use netlify cms
-permalink: /blog/using-netlify-cms/
+date: '2020-05-23T09:52:20.613Z'
+categories: azure
+toc: true
 ---
 ## Hello World
 

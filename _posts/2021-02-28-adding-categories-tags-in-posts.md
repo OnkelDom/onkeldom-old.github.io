@@ -1,24 +1,19 @@
 ---
-layout: posts
-title:  "Adding Multiple Categories in Posts"
-summary: "Learn how to add categories in posts"
+layout: single
 author: onkeldom
+title: Adding Multiple Categories in Posts
 date: '2021-02-28 1:35:23 +0530'
-category: ['linux','guides', 'powershell']
-tags: azure
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
-usemathjax: false
-permalink: /blog/adding-categories-tags-in-posts/
+categories: ['linux','guides', 'powershell']
+toc: true
 ---
 
 ## Adding Multiple Categories in Posts
 
-To add categories in blog posts all you have to do is add a **category** key with category values in frontmatter of the post :
+To add categories in blog posts all you have to do is add a **categories** key with category values in frontmatter of the post :
 
 ```yml
 ---
-category: ['jekyll', 'guides', 'sample_category']
+categories: ['jekyll', 'guides', 'sample_category']
 ---
 ```
 

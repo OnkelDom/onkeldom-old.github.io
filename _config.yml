@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de-DE"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "onkeldom-1" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "onkeldom" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -121,7 +121,6 @@ author:
       url: "https://lenhardt.cc"
 
 # Experiences
-author_work_experiences_title: Major Skills
 author_work_experiences_details:
   - logo: linux.png
     url: https://www.linux.org
@@ -141,13 +140,18 @@ author_work_experiences_details:
     visibility: true
 
 # Education
-author_education_title: Ausbildungen
 author_education_details:
   - degree: "Fachinformatiker für Systemintegration"
     name: "ATLAS Dienstleistungen für Vermögensberatung GmbH"
     logo: fisi.jpg
     url: https://www.ausbildung.de/berufe/fachinformatiker-systemintegration
     description: "08/2014 bis 01/2017"
+    visibility: true
+  - degree: "Linux Grundlagenschulung"
+    name: "B1-Systems GmbH"
+    logo: b1systems.jpg
+    url: https://www.b1-systems.de/
+    description: "8/2014"
     visibility: true
   - degree: "ITIL Foundation"
     name: "ATLAS Dienstleistungen für Vermögensberatung GmbH"
@@ -161,21 +165,20 @@ author_education_details:
     url: https://www.dvag.de
     description: "04/2019"
     visibility: true
-  - degree: "Microsoft Azure Administrator (AZ-104T00)"
-    name: "FastLane"
-    logo: ms-az-104.png
-    url: https://www.fastlane.net
-    description: "11/2021"
-    visibility: true
   - degree: "Microsoft PowerShell Basics"
     name: "softwareONE"
     logo: powershell.png
     url: https://www.softwareone.com
     description: "08/2021 - Automating Administration With Windows PowerShell"
     visibility: true
+  - degree: "Microsoft Azure Administrator (AZ-104T00)"
+    name: "FastLane"
+    logo: ms-az-104.png
+    url: https://www.fastlane.net
+    description: "11/2021"
+    visibility: true
 
 # Projects
-author_project_title: Projekte
 author_project_details:
   - title: lenhardt.cc
     thumbnail: lenhardt.cc.jpg
@@ -190,12 +193,12 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/OnkelDominik" 
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/OnkelDom"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

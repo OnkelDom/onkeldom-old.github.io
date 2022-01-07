@@ -1,12 +1,30 @@
 # main links
 main:
   - title: "Über mich"
-    url: /uebermich/
+    url: /about/
   - title: "Blog"
     url: /blog/
   - title: "Kategorien"
-    url: /kategorien/
+    url: /categories/
   - title: "Impressum"
     url: /impressum/
   - title: "Datenschutz"
     url: /datenschutz/
+# sidebars
+# the name "sidebar" is free and add them to the page, where you want an submenu
+sidebar_index:
+  - title: "Menü"
+    #url: /parent-1-page-url/
+    children:
+      - title: "RSS Feed"
+        url: /feed.xml
+sidebar_about:
+  - title: "Menü"
+    #url: /parent-1-page-url/
+    children:
+      - title: "Ausbildungen"
+        url: /about/education/
+      - title: "Erfahrungen/Skills"
+        url: /about/skills/
+      - title: "Projekte"
+        url: /about/projects/

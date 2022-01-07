@@ -1,9 +1,10 @@
 ---
-layout: posts
-title:  "Added Multi Author Support"
+layout: single
 author: onkeldom
+title: Added Multi Author Support
 date: '2020-10-25 1:35:23 +0530'
 categories: linux
+toc: true
 ---
 
 ## Now Multiple Authors Can Create Articles:

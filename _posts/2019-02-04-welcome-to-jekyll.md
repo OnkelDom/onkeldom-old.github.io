@@ -1,9 +1,10 @@
 ---
-layout: posts
-title:  "Welcome to devlopr-jekyll !"
+layout: single
 author: onkeldom
+title: Welcome to devlopr-jekyll!
 date: '2019-05-22 14:35:23 +0530'
 categories: linux
+toc: true
 ---
 
 
