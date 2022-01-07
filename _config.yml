@@ -208,6 +208,13 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+  links_img:
+    - label: "buymeacoffee"
+      icon: "buymeacoffee.jpg"
+      url: "https://www.buymeacoffee.com/OnkelDom"
+    - label: "paypalme"
+      icon: "paypalme.png"
+      url: "https://www.paypal.me/Lenhardt1987"
 
 
 # Reading Files

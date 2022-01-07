@@ -3,6 +3,7 @@ permalink: /about/projects/
 title: "Projekte"
 layout: single
 author_profile: true
+classes: wide
 ---
 {% if site.author_project_details %}
 <table>
