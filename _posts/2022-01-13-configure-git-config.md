@@ -19,9 +19,7 @@ In diesem Beitrag stelle ich eine grundlegende Git Themen vor. Von der Installat
 `sudo apt-get update`
 ### Packet git installieren ohne rückfrage (-y)
 `sudo apt-get install -y git`
-
 # Benutzer Daten und Konfiguration
-
 ### Benutzername der an einem Commit steht angeben
 `git config --global user.name "your_name"`
 ### Die Mail-Adresse, die an einem Commit steht angeben
