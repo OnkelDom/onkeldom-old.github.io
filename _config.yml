@@ -248,7 +248,6 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - _posts/2030-01-01-draft.md # template file
 keep_files:
   - .git
   - .svn
