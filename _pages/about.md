@@ -1,9 +1,6 @@
 ---
 permalink: /about/
 title: "Über mich"
-layout: single
-author_profile: true
-classes: wide
 sidebar:
   nav: "sidebar_about"
 ---

@@ -1,9 +1,6 @@
 ---
 permalink: /about/skills/
 title: "Skills"
-layout: single
-author_profile: true
-classes: wide
 ---
 
 Im allgemeinen bin ich sicher im Umgang mit RedHat und Debian basierten Linux Distributionen und im Umgang mit der Microsoft Azure Cloud. Ansible ist für mich das Konfigurationmanagement Tool der wahl. Es ist schlank, leicht bedienbar und das wichtigste ist, dass es dezentral nutzbar ist und man auf keine Infrastruktur dafür angewiesen ist.

@@ -1,9 +1,7 @@
 ---
 permalink: /impressum/
 title: "Impressum"
-layout: single
 author_profile: false
-classes: wide
 ---
 ## Angaben gemäß § 5 TMG:
 Dominik Lenhardt<br>

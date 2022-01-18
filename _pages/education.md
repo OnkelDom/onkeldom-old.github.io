@@ -1,9 +1,6 @@
 ---
 permalink: /about/education/
 title: "Ausbildungen"
-layout: single
-author_profile: true
-classes: wide
 ---
 
 {% if site.author_education_details %}
