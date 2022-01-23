@@ -54,3 +54,5 @@ Leute, die sich über die nicht existierende personalisierte Datenverarbeitung i
 Unsere Bundesregierung z.B. ist verpflichtet, mit deinen Daten sensibel/anonymisiert umzugehen. Firmen wie Facebook und Co verarbeiten deine persönlichen Daten und verkaufen diese weil das ihr Geschäftsmodell ist. Denk mal drüber nach ;)
 
 Wichtig ist im Grunde nur eins. Stell nur die Daten ins Internet, die du auch bereit bist, preis zu geben. Das Internet merkt sich alles und das Internet vergisst auch nicht. Leider zu oft zum Nachteil Ahnungsloser Menschen.
+
+Auf der folgenden Seite könnt ihr überprüfen, ob eure E-Mail Adressen betroffen sind [Have i been pwned?](https://haveibeenpwned.com/)
