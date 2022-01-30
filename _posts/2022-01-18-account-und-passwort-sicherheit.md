@@ -55,4 +55,4 @@ Unsere Bundesregierung z.B. ist verpflichtet, mit deinen Daten sensibel/anonymis
 
 Wichtig ist im Grunde nur eins. Stell nur die Daten ins Internet, die du auch bereit bist, preis zu geben. Das Internet merkt sich alles und das Internet vergisst auch nicht. Leider zu oft zum Nachteil Ahnungsloser Menschen.
 
-Auf der folgenden Seite könnt ihr überprüfen, ob eure E-Mail Adressen betroffen sind [Have i been pwned?](https://haveibeenpwned.com/)
+Auf der folgenden Seite könnt ihr überprüfen, ob eure E-Mail Adressen betroffen sind [Have i been pwned?](https://haveibeenpwned.com/).
