@@ -80,12 +80,12 @@ Ich verwende natürlich nur das Minimal Image für die PI's da die Dinger nach d
 | IP       | 192.168.1.10/26 (alle Services)|
 
 ## Verzeichnis Sync
-|                      |                                |
-|----------------------|--------------------------------|
-| /var/lib/loki        | (falls promtail nicht von selbst auf zwei targets schreiben kann) |
-| /var/lib/prometheus  | (falls remote write nicht klappt) |
-| /var/lib/grafana     | (falls erforderlich) |
-| /var/Lib/traefik     | (falls acme.json ein problem macht) |
+|                      |                                                                                      |
+|----------------------|--------------------------------------------------------------------------------------|
+| /var/lib/loki        | (falls promtail nicht von selbst auf zwei targets schreiben kann)                    |
+| /var/lib/prometheus  | (falls remote write nicht klappt)                                                    |
+| /var/lib/grafana     | (falls erforderlich)                                                                 |
+| /var/Lib/traefik     | (falls acme.json ein problem macht)                                                  |
 | /var/lib/pushgateway | (nur bei latenzproblemen notwendig, da sonst instant auf prometheus geschrieben ist) |
 
 # Umsetzung
