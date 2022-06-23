@@ -17,5 +17,9 @@ jobs:
         run: npm i -D @playwright/test
       - name: Install playwright browsers
         run: npx playwright install
-      - name: Run Test
-        run: npx playwright test tests/lenhardt.cc.spec.mjs
+      - name: Run Test WebKit
+        run: npx playwright test tests/lenhardt.cc.spec.mjs --project=webkit
+      - name: Run Test Firefox
+        run: npx playwright test tests/lenhardt.cc.spec.mjs --project=firefox
+      - name: Run Test Chromium
+        run: npx playwright test tests/lenhardt.cc.spec.mjs --project=chromium
