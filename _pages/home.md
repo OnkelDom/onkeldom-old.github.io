@@ -1,8 +1,7 @@
 ---
 permalink: /home/
 title: "Home Landingpage"
-sidebar:
-  nav: "sidebar_about"
+author_profile: false
 ---
 # Übersicht der Home Links
 
