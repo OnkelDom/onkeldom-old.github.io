@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - maaster
+      - maaster
 
 jobs:
   e2e-tests:
