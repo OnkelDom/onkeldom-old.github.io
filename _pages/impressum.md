@@ -8,7 +8,7 @@ Dominik Lenhardt<br>
 Tulpenstraße 5<br>
 64832 Babenhausen<br><br>
 Kontakt:<br>
-E-Mail: <a href="mailto:dominik@lenhardt.cc?Subject=Impressum lenhardt.cc">dominik (AT) lenhardt (PUNKT) cc</a><br>
+E-Mail: <a href="mailto:office@lenhardt.cc?Subject=Impressum lenhardt.cc">office (AT) lenhardt (PUNKT) cc</a><br>
 Mobil: +49 160 99625867
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:

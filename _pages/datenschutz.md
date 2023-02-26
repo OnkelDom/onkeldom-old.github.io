@@ -58,7 +58,7 @@ author_profile: false
 <p>64832 Babenhausen</p>
 <p>Deutschland</p>
 <p>Tel.: +4916099625867</p>
-<p>E-Mail: dominik@lenhardt.cc</p>
+<p>E-Mail: office@lenhardt.cc</p>
 <p>Website: lenhardt.cc</p>
 
 <h4>3. Cookies</h4>
