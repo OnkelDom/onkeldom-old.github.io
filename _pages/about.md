@@ -18,3 +18,11 @@ Im Jahr 2021 ergab sich für mich die Gelegenheit, in die Administration der Mic
 Im Jahr 2023 wechselte ich das Unternehmen und begab mich nebenbei in die Selbstständigkeit, weil ich davon überzeugt bin, dass ich anderen Menschen mit meiner Arbeit helfen kann und will. Heute konzentriere ich mich auf übergreifende, dezentrale Lösungen in der Cloud und/oder On-Premises sowie auf die Administration in Azure. Zur Verwaltung verwende ich im Wesentlichen Ansible, PowerShell oder Automatismen in Github. Die Weiterentwicklung und Absicherung der IT-Systeme ist für mich tägliche Arbeit.
 
 Meine Arbeitsweise ist sehr strukturiert und durchdacht. Ich bin der Meinung, dass es wichtig ist, zuerst einen Plan zu haben und diesen dann umzusetzen. Dazu gehören selbstverständlich auch prozessorientierte und organisatorische Themen.
+
+Ich kann Sie in den folgenden Themen unterstützen:
+* IT-Infrastruktur
+* IT-Sicherheit
+* Netzwerkadministration
+* Hochverfügbarkeit
+* Cloud-Computing
+* Microsoft 365
