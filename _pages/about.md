@@ -1,11 +1,10 @@
 ---
 permalink: /about/
 title: "Über mich"
-sidebar:
-  nav: "sidebar_about"
 ---
-Auf der Linken seite befindet sich das Untermenü
-{: .btn .btn--small}
+<p><a class="btn btn--primary" href="/about/education/" target="_self">Ausbildungen</a> |
+ <a class="btn btn--primary" href="/about/skills/" target="_blank">Erfahrungen/Skills</a> |
+ <a class="btn btn--primary" href="/about/projects/" target="_blank">Projekte</a></p>
 
 Ich bin 1987 geboren und habe 2005 die mittlere Reife erlangt. Nach einiger Zeit zu Hause am Computer und kleineren Aushilfsjobs absolvierte ich mit 18 Jahren meinen Grundwehrdienst bei der Bundeswehr. Anschließend machte ich mich im Verlagswesen selbstständig und war im Hauptgeschäft für die Frankfurter Rundschau in allen Bereichen tätig, bis ich gemeinsam mit dem Unternehmen 2012 in die Insolvenz ging. Bis 2014 arbeitete ich dann noch als Teamleiter und Einsatzplaner in Tochterfirmen für die Abonnentenzustellung.
 

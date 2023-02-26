@@ -18,13 +18,3 @@ sidebar_index:
     children:
       - title: "RSS Feed"
         url: /feed.xml
-sidebar_about:
-  - title: "Menü"
-    #url: /parent-1-page-url/
-    children:
-      - title: "Ausbildungen"
-        url: /about/education/
-      - title: "Erfahrungen/Skills"
-        url: /about/skills/
-      - title: "Projekte"
-        url: /about/projects/
