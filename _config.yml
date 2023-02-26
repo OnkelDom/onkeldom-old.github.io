@@ -104,16 +104,16 @@ analytics:
 author:
   name             : "Dominik Lenhardt"
   avatar           : "/assets/images/onkeldom_avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Beratung, Entwicklung, Betrieb von IT-Systemen und Azure Infrastruktur"
+  bio              : "Beratung, Entwicklung, Betrieb von IT-Systemen und Cloud Infrastruktur"
   location         : "Babenhausen, DE"
   email            : "dominik@lenhardt.cc"
   twitter          : "OnkelDominik"
   xing             : "Dominik_Lenhardt"
   linkedin         : "dominik-lenhardt-086645226"
   github           : "OnkelDom"
-  steam            : "" # onkeldom
-  youtube          : "" # d3mka
-  instagram        : "" #onkeldominik
+  #steam            : "onkeldom"
+  #youtube          : "d3mka"
+  #instagram        : "onkeldominik"
   stackoverflow    : "17848024/dominik-lenhardt"
   links: {}
     # - label: "Website"
