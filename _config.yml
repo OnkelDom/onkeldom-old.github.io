@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "Dominik Lenhardt"
+title                    : "Dominik Lenhardt IT-Services"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dominik Lenhardt"
-description              : "Linux und Azure Cloud Administrator"
+description              : "Beratung, Entwicklung, Betrieb von IT-Systemen und Azure Infrastruktur"
 url                      : "https://onkeldom.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "OnkelDom/onkeldom.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,21 +104,21 @@ analytics:
 author:
   name             : "Dominik Lenhardt"
   avatar           : "/assets/images/onkeldom_avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Linux und Azure Cloud Administrator"
+  bio              : "Beratung, Entwicklung, Betrieb von IT-Systemen und Azure Infrastruktur"
   location         : "Babenhausen, DE"
   email            : "dominik@lenhardt.cc"
   twitter          : "OnkelDominik"
   xing             : "Dominik_Lenhardt"
   linkedin         : "dominik-lenhardt-086645226"
   github           : "OnkelDom"
-  steam            : "onkeldom"
-  youtube          : "d3mka"
-  instagram        : "onkeldominik"
+  steam            : "" # onkeldom
+  youtube          : "" # d3mka
+  instagram        : "" #onkeldominik
   stackoverflow    : "17848024/dominik-lenhardt"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://lenhardt.cc"
+  links: {}
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://lenhardt.cc"
 
 # Experiences
 author_work_experiences_details:
