@@ -11,7 +11,7 @@ jobs:
   e2e-tests:
     runs-on: ubuntu-latest # or macos-latest, windows-latest
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v3.5.0
       - uses: microsoft/playwright-github-action@v1
       - name: Install playwright
         run: npm i -D @playwright/test
